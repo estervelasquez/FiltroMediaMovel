@@ -1,5 +1,5 @@
 # FiltroMediaMovel
-Resposta ao impulso, resposta ao degrau, magnitude e fase do Filtro Média Móvel, para diferentes valores de M1 e M2
+Plotagem dos gráficos de resposta ao impulso, resposta ao degrau, magnitude e fase do Filtro Média Móvel, para diferentes valores de M1 e M2 - controlados pelo usuário
 
 O arquivo fig é referente à figura que será aberta com os 4 gráficos
 
